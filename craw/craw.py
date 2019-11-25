@@ -9,11 +9,11 @@
 """
 
 import os
+import subprocess
 import sys
 import time
 
 import update
-from git import Repo
 from loguru import logger
 from modules.trail import sensor
 from modules.trail.plugins import util as util
@@ -44,14 +44,18 @@ def run():
             print('[i] Craw Finished!')
             update.main()
             print('[i] Syn Finished!')
-            repo = Repo(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-            print(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-            changes = [item.a_path for item in repo.index.diff(None)]
-            print(changes)
-            repo.index.add(changes)
-            repo.index.commit(time.asctime(time.localtime(time.time())))
-            origin = repo.remote('origin')
-            origin.push()
+            subprocess.call(["git", "add", "."])
+            subprocess.call(
+                ["git", "commit", "-m", "auto push at " + time.asctime(time.localtime(time.time()))])  # 加上当前系统的时间
+            subprocess.call(["git", "push"])
+            # repo = Repo(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            # print(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            # changes = [item.a_path for item in repo.index.diff(None)]
+            # print(changes)
+            # repo.index.add(changes)
+            # repo.index.commit(time.asctime(time.localtime(time.time())))
+            # origin = repo.remote('origin')
+            # origin.push()
             print('[i] Push Finished!')
             print('[i] Sleep 3600')
             time.sleep(3600)
