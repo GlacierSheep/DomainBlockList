@@ -118,3 +118,4 @@ ids/Mytrails.csv/*.csv
 
 .git
 .idea
+*.Log
