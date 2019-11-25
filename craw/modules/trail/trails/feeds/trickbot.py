@@ -7,7 +7,7 @@ See the file 'LICENSE' for copying permission
 
 import re
 
-from modules.trail.plugins.util import wget_content
+from craw.modules.trail.plugins.util import wget_content
 
 __url__ = "https://github.com/JR0driguezB/malware_configs"
 __check__ = "mcconf"

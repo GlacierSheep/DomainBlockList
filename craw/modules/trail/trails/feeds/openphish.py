@@ -7,7 +7,7 @@ See the file 'LICENSE' for copying permission
 
 import re
 
-from modules.trail.plugins.util import wget_content
+from craw.modules.trail.plugins.util import wget_content
 
 __url__ = "https://openphish.com/feed.txt"
 __check__ = "http://"

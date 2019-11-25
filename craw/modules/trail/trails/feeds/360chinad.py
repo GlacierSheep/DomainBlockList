@@ -7,7 +7,7 @@ See the file 'LICENSE' for copying permission
 
 import re
 
-from modules.trail.plugins.util import wget_content
+from craw.modules.trail.plugins.util import wget_content
 
 __url__ = "https://data.netlab.360.com/feeds/dga/chinad.txt"
 __check__ = "netlab 360"

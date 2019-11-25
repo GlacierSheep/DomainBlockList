@@ -5,7 +5,7 @@ Copyright (c) 2014-2019 Maltrail developers (https://github.com/stamparm/maltrai
 See the file 'LICENSE' for copying permission
 """
 
-from modules.trail.plugins.util import wget_content
+from craw.modules.trail.plugins.util import wget_content
 
 __url__ = "https://isc.sans.edu/feeds/suspiciousdomains_Low.txt"
 __check__ = "DShield.org"

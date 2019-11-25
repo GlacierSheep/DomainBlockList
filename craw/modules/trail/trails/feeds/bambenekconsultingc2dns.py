@@ -7,7 +7,7 @@ See the file 'LICENSE' for copying permission
 
 import re
 
-from modules.trail.plugins.util import wget_content
+from craw.modules.trail.plugins.util import wget_content
 
 __url__ = "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt"
 __check__ = "Master Feed"

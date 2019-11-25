@@ -17,10 +17,10 @@ class My_Craw(object):
 
         self.BOGON_RANGES = {}
         self.CDN_RANGES = {}
-        self.ROOT_DIR = './modules/trail/'
+        self.ROOT_DIR = './craw/modules/trail/'
         self.NAME = "Maltrail"
         self.USERS_DIR = os.path.join(os.path.expanduser("~"), ".%s" % self.NAME.lower())
-        self.PYCHARM_PRO_DIR = os.path.abspath('.') + "/modules/" + "Mytrails.csv/"
+        self.PYCHARM_PRO_DIR = os.path.abspath('.') + "/craw/modules/" + "Mytrails.csv/"
         self.TRAILS_FILE = os.path.join(self.PYCHARM_PRO_DIR, "trails.csv")
         self.LOW_PRIORITY_INFO_KEYWORDS = (
             "reputation", "attacker", "spammer", "abuser", "malicious", "dnspod", "nicru", "crawler", "compromised",
@@ -29,7 +29,7 @@ class My_Craw(object):
         self.HIGH_PRIORITY_REFERENCES = (
             "bambenekconsulting.com", "github.com/stamparm/blackbook", "(static)", "(custom)")
         self.BAD_TRAIL_PREFIXES = ("127.", "192.168.", "localhost")
-        self.ROOT_DIR = './modules/trail/'
+        self.ROOT_DIR = './craw/modules/trail/'
         self.WHITELIST = set()
         self.WHITELIST_RANGES = set()
         self.read_cdn_ranges()

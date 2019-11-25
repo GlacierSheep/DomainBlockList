@@ -7,7 +7,7 @@ See the file 'LICENSE' for copying permission
 
 import re
 
-from modules.trail.plugins.util import wget_content
+from craw.modules.trail.plugins.util import wget_content
 
 __url__ = "https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/otx-c2-iocs.txt"
 __check__ = "zapto"

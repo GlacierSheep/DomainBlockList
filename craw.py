@@ -64,3 +64,7 @@ def run():
         except:
             util.wxpush('Crawl', 'Error！', True)
             logger.exception("syn_main")
+
+
+if __name__ == "__main__":
+    run()
