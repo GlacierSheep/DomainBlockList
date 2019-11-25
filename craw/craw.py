@@ -13,13 +13,12 @@ import subprocess
 import sys
 import time
 
+import update
 from loguru import logger
+from modules.trail import sensor
+from modules.trail.plugins import util as util
 from pyfiglet import figlet_format
 from termcolor import cprint
-
-import craw.update
-from craw.modules.trail import sensor
-from craw.modules.trail.plugins import util as util
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE_FIL = os.path.basename(os.path.abspath(__file__))
@@ -43,7 +42,7 @@ def run():
             my_craw = sensor.My_Craw()
             my_craw.update_trails()
             print('[i] Craw Finished!')
-            craw.update.main()
+            update.main()
             print('[i] Syn Finished!')
             subprocess.call(["git", "add", "."])
             subprocess.call(
@@ -64,7 +63,3 @@ def run():
         except:
             util.wxpush('Crawl', 'Error！', True)
             logger.exception("syn_main")
-
-
-if __name__ == "__main__":
-    run()
