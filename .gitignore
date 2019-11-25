@@ -113,3 +113,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ids/Mytrails.csv/*.csv
+*.csv
+
+.git
+.idea
