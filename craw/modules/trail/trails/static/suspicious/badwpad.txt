@@ -1,0 +1,84 @@
+# Copyright (c) 2014-2019 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.trendmicro.co.uk/media/misc/wp-badwpad.pdf
+
+# Reference: https://twitter.com/malwaremustd1e/status/1125303785004212224
+# Reference: https://blog.redteam.pl/2019/05/badwpad-dns-suffix-wpad-wpadblocking-com.html
+# Reference: https://blog.redteam.pl/2019/05/badwpad-and-wpad-pl-wpadblocking-com.html
+
+wpad.cat
+wpad.cc
+wpad.computer
+wpad.cz
+wpad.direct
+wpad.domains
+wpad.ee
+wpad.gr
+wpad.group
+wpad.hr
+wpad.im
+wpad.info
+wpad.it
+wpad.live
+wpad.ltd
+wpad.lv
+wpad.name
+wpad.network
+wpad.pl
+wpad.plus
+wpad.pro
+wpad.sk
+wpad.systems
+wpad.tv
+wpad.tw
+wpad.vip
+wpad.ws
+wpad.xxx
+wpad.zone
+
+# Reference: https://twitter.com/smii_mondher/status/1163567422365995009
+
+http://95.168.185.183/wpad.dat
+
+# Reference: https://www.bleepingcomputer.com/virus-removal/remove-autoconfigurl-browser-hijacker
+
+fastaccessweb.com
+get-access.me
+mail.no-stop.net
+non-block.com
+non-block.net
+nonblock.net
+nonblocks.com
+none-stop.net
+no-stop.net
+notblocked.net
+no-blocked.com
+nonblock.net
+none-stop.net
+noneblock.com
+nostopped.net
+stoppblock.biz
+stoppblock.com
+stoppblock.me
+stoppblock.org
+un-blocking.com
+un-blocking.info
+un-blocking.net
+un-stop.com
+un-stop.net
+un-stop.org
+unblockservice.com
+unstop.me
+unstopp.me
+unstops.biz
+unstops.net
+unstopweb.com
+unstopweb.net
+unstopweb.org
+webunstop.org
+
+# Reference: https://www.wpadblock.com/
+# Reference: https://www.virustotal.com/gui/ip-address/144.76.184.43/relations
+
+144.76.184.43
