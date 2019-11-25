@@ -45,7 +45,9 @@ def run():
             update.main()
             print('[i] Syn Finished!')
             repo = Repo(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            print(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
             changes = [item.a_path for item in repo.index.diff(None)]
+            print(changes)
             repo.index.add(changes)
             repo.index.commit(time.asctime(time.localtime(time.time())))
             origin = repo.remote('origin')
