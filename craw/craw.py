@@ -13,7 +13,7 @@ import subprocess
 import sys
 import time
 
-import update
+import modules.trail.plugins.update as myupdate
 from loguru import logger
 from modules.trail import sensor
 from modules.trail.plugins import util as util
@@ -42,7 +42,7 @@ def run():
             my_craw = sensor.My_Craw()
             my_craw.update_trails()
             print('[i] Craw Finished!')
-            update.main()
+            myupdate.main()
             print('[i] Syn Finished!')
             subprocess.call(["git", "add", "."])
             subprocess.call(
