@@ -12,6 +12,7 @@ import os
 import sys
 import time
 
+import update
 from git import Repo
 from loguru import logger
 from modules.trail import sensor
@@ -40,13 +41,16 @@ def run():
         try:
             my_craw = sensor.My_Craw()
             my_craw.update_trails()
-            # update.main()
-            print('[i] Update Finished!')
+            print('[i] Craw Finished!')
+            update.main()
+            print('[i] Syn Finished!')
             repo = Repo(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
             repo.index.add('.')
-            repo.index.commit('Test')
+            repo.index.commit(time.asctime(time.localtime(time.time())))
             origin = repo.remote('origin')
             origin.push()
+            print('[i] Push Finished!')
+            print('[i] Sleep 3600')
             time.sleep(3600)
 
         except:
