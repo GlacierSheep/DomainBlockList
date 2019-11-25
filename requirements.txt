@@ -28,7 +28,7 @@ python-dmidecode==3.12.2
 python-linux-procfs==0.6
 pytz==2019.3
 pyudev==0.21.0
-PyYAML==3.12
+PyYAML==5.1
 requests==2.22.0
 rhnlib==2.8.6
 rpm==4.14.2
