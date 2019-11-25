@@ -16,42 +16,6 @@ from tempfile import TemporaryDirectory
 
 import pandas as pd
 import requests
-from selenium import webdriver
-
-
-def retrieve_content(url, data=None, headers=None):
-    """
-    Retrieves page content from given URL
-    """
-
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--disable-gpu')
-    chrome_options.add_argument('--no-sandbox')
-    chrome_options.add_argument('Log-level=3')
-    chrome_options.add_argument(
-        'User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"')
-    driver = webdriver.Chrome(chrome_options=chrome_options)
-
-    try:
-
-        for i in range(len(url)):
-            url[i].replace(' ', "%20") if i > url.find('?') else url[i]
-
-        driver.get(url)
-        retval = driver.page_source
-        driver.quit()
-        # resp = requests.get(url, headers=headers or {"User-agent": NAME, "Accept-encoding": "gzip, deflate"}, timeout=5)
-        # retval = resp.content
-
-
-    except Exception as ex:
-        retval = ex.read() if hasattr(ex, "read") else getattr(ex, "msg", str())
-
-        if url.startswith("https://") and "handshake failure" in retval:
-            return retrieve_content(url.replace("https://", "http://"), data, headers)
-
-    return retval or ""
 
 
 def wget_content(url):
