@@ -29,8 +29,8 @@ def run():
     import git
     with TemporaryDirectory() as dirname:
         git.Repo.clone_from(url=path, to_path=dirname, depth=1)
-        copytree(dirname + '/trails/static/malware', './modules/trail/trails/static/malware')
-        copytree(dirname + '/trails/static/suspicious', './modules/trail/trails/static/suspicious')
+        copytree(dirname + '/trails/static/malware', './craw/modules/trail/trails/static/malware')
+        copytree(dirname + '/trails/static/suspicious', './craw/modules/trail/trails/static/suspicious')
 
 
 def copytree(src, dst, symlinks=False):
