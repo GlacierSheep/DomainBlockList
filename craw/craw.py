@@ -44,7 +44,7 @@ def run():
             print('[i] Craw Finished!')
             update.main()
             print('[i] Syn Finished!')
-            subprocess.call(["git", "add", "."])
+            subprocess.call(["git", "add", ".."])
             subprocess.call(
                 ["git", "commit", "-m", "auto push at " + time.asctime(time.localtime(time.time()))])  # 加上当前系统的时间
             subprocess.call(["git", "push"])
