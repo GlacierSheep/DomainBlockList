@@ -1,0 +1,56 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://securelist.com/razy-in-search-of-cryptocurrency/89485/
+
+gigafilesnote.com
+apiscr.com
+happybizpromo.com
+nolkbacteria.info
+2searea0.info
+touristsila1.info
+touristsworl.xyz
+solkoptions.host.
+solkoptions.site
+mirnorea11.xyz
+miroreal.xyz
+anhubnew.info
+kidpassave.xyz
+
+# Reference: https://twitter.com/Paladin3161/status/1219260202840576000
+# Reference: https://pastebin.com/WUQYwSuc
+
+leshdksvc.ug
+vcdjhbgerwgdfkn.ru
+
+# Reference: https://blog.talosintelligence.com/2020/02/threat-roundup-0214-0221.html (# Win.Malware.Razy-7588195-0)
+
+dill10n1.pw
+ijust1fy.pw
+j0011y.pw
+j0nhy.pw
+j5cool.xyz
+jo15y.xyz
+jo1b9.co
+jong37.pw
+js0c892.se
+jsbook.info
+jsoc8492.us
+klub046.co
+klub11n.us
+ktfr34ks.pw
+l0vew1n5.xyz
+ligue1.fun
+ligue1.shop
+lip4u5.se
+lip616.co
+sm0osh.xyz
+snd616.co
+son0fman.pw
+
+# Reference: https://blog.talosintelligence.com/2020/04/threat-roundup-0410-0417.html (# Win.Packed.Razy-7660763-0)
+# Reference: https://www.virustotal.com/gui/file/0043c76fcf327b85962b67d87f015663c2651181debaf1cf8b631d1fd7c48e64/detection
+
+apistroppelsees.biz
+jooholadomfing.info
+server-massil.com

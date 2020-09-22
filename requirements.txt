@@ -1,0 +1,6 @@
+GitPython
+loguru
+pandas
+pyfiglet
+requests
+termcolor

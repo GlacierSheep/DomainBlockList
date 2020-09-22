@@ -1,0 +1,15 @@
+[Unit]
+Description=damon test
+After=rc-local.service
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/root/DoaminBlockList
+ExecStart=/usr/bin/python3 craw.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+

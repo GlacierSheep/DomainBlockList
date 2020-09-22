@@ -1,0 +1,77 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Aliases: loda, lodalogger
+
+# Reference: https://twitter.com/James_inthe_box/status/1047193599660576768
+
+torrentfreak.duckdns.org
+
+# Reference: https://twitter.com/DynamicAnalysis/status/1166433211548913668
+
+79.134.225.71:7070
+plunder.nsupdate.info
+
+# Reference: https://twitter.com/425a_/status/1166792682812952576
+# Reference: https://app.any.run/tasks/9654615e-a7d4-4f08-b29a-3a05d7012646/
+
+172.111.184.248:5000
+faith.dns-cloud.net
+
+# Reference: https://app.any.run/tasks/919aede4-0cb3-42c6-a2df-cda9221cf38b/
+
+monlait-57586.portmap.host
+193.161.193.99:37659
+
+# Reference: https://app.any.run/tasks/a0ac054a-1776-4121-978a-c5e5dfcd9bc0/
+
+adomazmc.duckdns.org
+
+# Reference: https://app.any.run/tasks/c4f94b73-2d0d-40e1-9c1b-d0c34b0c37d7/
+
+battying.duckdns.org
+88.150.227.112:11361
+
+# Reference: https://app.any.run/tasks/376bbb21-01c0-4ebf-8441-2acd7bdcce80/
+
+79.142.76.244:11361
+
+# Reference: https://twitter.com/killamjr/status/1192967390910394368
+# Reference: https://zerophagemalware.com/2018/01/23/maldoc-rtf-drop-loda-logger/
+# Reference: https://app.any.run/tasks/279e3b22-239a-470a-b3aa-63e3cefd8e75/
+
+193.161.193.99:37659
+monlait-57586.portmap.host
+
+# Reference: https://www.virustotal.com/gui/file/a402b91d84f226b0cbbe9c5f4fd8e079ace27a8dc66047d6e10685462e2b26bf/detection
+
+142.44.161.51:7070
+
+# Reference: https://twitter.com/killamjr/status/1221484462342459392
+# Reference: https://app.any.run/tasks/5bb47889-64a6-40bf-a77d-0ba2b2578942/
+
+79.142.76.244:64735
+breakthrough.hopto.org
+
+# Reference: https://blog.talosintelligence.com/2020/02/loda-rat-grows-up.html
+# Reference: https://otx.alienvault.com/pulse/5e4460cce66c474d5bb319a1
+
+4success.zapto.org
+breakthrough.hopto.org
+success20.hopto.org
+
+# Reference: https://www.virustotal.com/gui/file/e17570bb819f551412fec0cd61acc3b9d832f8990894c392c44ff00f9958d801/detection
+
+79.142.76.244:53916
+
+# Reference: https://www.virustotal.com/gui/file/e80013a61796dac4c6d90283a2b956e005605d188d5127ff57552bfad64ecac7/detection
+
+79.142.76.244:2089
+
+# Reference: https://www.virustotal.com/gui/file/861f52459f96e434a6e5f9a96153e781f31cfa60d9979b7fa94ee42892a674e7/detection
+
+79.142.76.244:4676
+
+# Reference: https://www.virustotal.com/gui/file/fbdc8ef710f6210128d96f4a1b195c11ae0c30e526d552d792824239460e23d7/detection
+
+88.150.227.112:4676

@@ -1,0 +1,40 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/wwp96/status/1221866487637520384
+# Reference: https://app.any.run/tasks/ab0e79ca-5626-4c49-a988-3960d0d51beb/
+# Reference: http://tracker.viriback.com/dump.php (2020-02-29, Lucifer)
+
+/lucif/Panel/
+/lucifer/Panel/
+/Panel/lucif/
+/Panel/lucifer/
+
+# Reference: https://app.any.run/tasks/c0d5e3fb-fae8-4dff-bad9-31ed982966b5/
+
+drrahnama.com/cabin/lucifer/
+/cabin/lucifer/
+
+# Reference: https://app.any.run/tasks/9ab40dbe-ed2e-40b4-bf1e-cff0a3748973/
+
+turasogutmas.com/lucifer/lucifer/
+/lucifer/lucifer/
+
+# Reference: https://github.com/stamparm/maltrail/pull/7250#issuecomment-596404626
+# Reference: https://twitter.com/wwp96/status/1221866487637520384
+
+/task.php?hwid=
+
+# Reference: https://twitter.com/Jouliok/status/1241633571028205568
+# Reference: https://app.any.run/tasks/5a576512-7227-4dc0-8fe5-02647c2851cc/
+
+hojokk.com
+/0x//gate.php?hwid=
+/0x//logs.php?hwid=
+/0x/photos.php?hwid=
+/0x//screen.php?hwid=
+
+# Reference: https://twitter.com/abuse_ch/status/1245290444445155329
+
+posit.monster
+/luci/Panel/

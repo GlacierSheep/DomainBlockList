@@ -1,0 +1,34 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.virustotal.com/#/file/53a2ad2b8271d1220e3de49c5962ae7f93a339a8e40484c20e1c2e7c06261e2e/detection
+
+tolo.chickenkiller.com
+
+# Reference: https://www.virustotal.com/#/domain/chocolate.zyns.com
+
+chocolate.zyns.com
+
+# Reference: https://www.sentinelone.com/blog/zusy-powerpoint-malware-spreads-without-needing-macros/
+
+cccn.nl
+
+# Reference: https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Troj~Zusy-C/detailed-analysis.aspx
+
+ekadus.be
+eksyghskgsbakrys.com
+felsy.be
+msrgejsdyvekadh.com
+
+# Reference: https://www.hybrid-analysis.com/sample/72d6e9c228eeae8aba33f653d16adf63c231d4370e989a0ab10853fa87b23562?environmentId=100
+# Reference: https://www.virustotal.com/gui/file/72d6e9c228eeae8aba33f653d16adf63c231d4370e989a0ab10853fa87b23562/detection
+
+sobea.in
+
+# Reference: https://blog.talosintelligence.com/2019/10/threat-roundup-for-september-27-to.html (# Win.Malware.Zusy-7191579-1)
+
+brureservtestot.cc
+
+# Reference: https://blog.talosintelligence.com/2019/10/threat-roundup-1011-1018.html (# Win.Malware.Zusy-7288173-1)
+
+spaines.pw

@@ -1,0 +1,15 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/demonslay335/status/1000222227546148871
+# Reference: https://www.virustotal.com/gui/file/80bc27ef05d51164ba3a66e6353a84e9c91de6f9961a15c99afe47be7a16e10b/detection
+
+demourl.co.nf
+
+# Reference: https://twitter.com/malwrhunterteam/status/1200485882966528000
+
+totes.bluetoes.org
+
+# Reference: https://twitter.com/James_inthe_box/status/1256227635690119175
+
+service-updater.hopto.org

@@ -1,0 +1,32 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/ScumBots/status/1057717510227849216
+
+/treasureHunter/gate.php
+
+# Reference: https://twitter.com/ScumBots/status/1094811119154356224
+
+/treasureHarm/gate.php
+
+# Reference: https://twitter.com/ScumBots/status/1109113350158454787
+
+/paper/gate.php
+/conhost/gate.php
+
+# Reference: https://twitter.com/ScumBots/status/1163802629853646848
+
+leg1.ml
+/cc/rss.php
+
+# Reference: http://tracker.viriback.com/dump.php (# 2019-11-04, TreasureHunter)
+
+http://51.15.252.204
+/oficialmuieingaoaza.php
+
+# Reference: https://twitter.com/ScumBots/status/1218958792383221769
+
+http://212.47.232.210
+lookarround.bet
+/paper/gate.php
+/lookarround/gate.php

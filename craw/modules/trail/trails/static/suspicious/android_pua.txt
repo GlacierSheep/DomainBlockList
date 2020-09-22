@@ -1,0 +1,201 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/ (# AdDisplay)
+
+35.198.197.119:8080
+
+# Reference: https://twitter.com/sh1shk0va/status/1204022927596937217
+
+fbgg.xyz
+bmm.fbgg.xyz
+
+# Reference: https://securelist.com/mobile-subscriptions/91211/
+
+okyesmobi.com
+
+# Reference: https://twitter.com/sh1shk0va/status/1205511108582354944
+
+data.djmixer2018.com
+
+# Reference: https://www.virustotal.com/gui/file/9442af04b50af35a768984fc66c9302d4f840cc3183e0fd55c1e2dda4fab28ce/detection
+
+216.144.236.34:80
+
+# Reference: https://www.virustotal.com/gui/file/f02de53011911ce236fd4aa12356da4a47e0632cedd48bd150d2b99ed79890c8/detection
+# Reference: https://www.virustotal.com/gui/domain/freevideo.publicvm.com/relations
+
+freevideo.publicvm.com
+
+# Reference: https://www.virustotal.com/gui/file/af197de4ef661e2c0f416b64d2681afe77d9236c9d0cab447d89daadeb9e281c/detection
+
+admob.linkpc.net
+
+# Reference: https://twitter.com/malwrhunterteam/status/1243800098053767168
+# Reference: https://www.virustotal.com/gui/file/0b336a74a85635956783e20b2546df1629b82777eacac25c42de6232aff46623/detection
+
+easyphonetrack.com
+/spy_phone/test_connection.php
+
+# Reference: https://www.virustotal.com/gui/file/e1288cb54727e673ffbd90ef4fcda2079d9f8a3d7b22b54b4e4726864462987c/detection
+# Reference: https://www.virustotal.com/gui/file/47ea88989bc1b1e90ea66d535c8c412994dd6eddaee82a4b69d3cd0922d7b219/detection
+# Reference: https://www.virustotal.com/gui/file/4bd5d41f9008f2e83a4b20f1104b726d43396eda52466ac3a066f90e432fa509/detection
+# Reference: https://www.virustotal.com/gui/ip-address/103.230.236.33/relations
+# Reference: https://www.virustotal.com/gui/file/adee9a56c951603db3f529c60c9b3f33bb3ebb36de0e14357b68bbfc1cb73dca/detection
+
+103.230.236.33:7002
+103.230.236.33:7003
+108.177.126.188:5228
+115.231.99.251:5224
+117.121.49.79:7001
+118.89.97.82:8000
+121.46.20.44:7006
+121.46.30.54:7000
+124.160.158.19:5224
+153.37.235.46:5287
+183.131.1.79:5224
+183.232.25.180:7000
+183.232.25.185:7002
+203.205.146.122:14000
+210.14.153.100:7001
+43.247.88.117:7009
+47.99.133.113:8726
+[a-z]{1}\.appjiagu\.com
+/ad-service/ad/mark
+/jiagu/mark/msg
+/jiagu/mark/upgrade
+/jiagu/msgs
+/jiagu/t/infos
+
+# Reference: https://www.virustotal.com/gui/domain/okyesmobi.com/relations
+
+okyesmobi.com
+
+# Reference: https://twitter.com/ReBensk/status/1253577450732175361
+# Reference: https://www.virustotal.com/gui/file/5a713ab48f267ee3d0aff6e9391b8fad90b46d35a1ffe805714084f1db819fa9/detection
+
+corona389.com
+covid389.com
+indo389.com
+nomor389.com
+rmhggk.com
+sgp389.com
+togel389.com
+togel389.net
+togel389.xyz
+
+# Reference: https://documents.trendmicro.com/assets/Appendix_AdwareCampaignIdentifiedFrom182GameandCameraAppsonGooglePlayandThird-PartyStoresLike9Apps.pdf
+# Reference: https://www.virustotal.com/gui/domain/atc.anncute.com/relations
+
+atc.anncute.com
+
+# Reference: https://twitter.com/ReBensk/status/1263078801866539009
+
+cerberusapp.com
+
+# Reference: https://twitter.com/ReBensk/status/1264966323005726721
+
+dx20.siweidaoxiang.com
+
+# Reference: https://securelist.com/in-app-advertising-in-android/97065/
+# Reference: https://otx.alienvault.com/pulse/5ed008e401d1cb8a6361b42e
+
+ti.domainforlite.com
+uu.domainforlite.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1271078722364485635
+
+viptrack.pro
+
+# Reference: https://twitter.com/malwrhunterteam/status/1267493474359742465
+
+cocospy.com
+
+# Reference: https://www.virustotal.com/gui/file/075b63d6402f73369885719b88eea0ee09782f5c6c973a7687498bfd797c5b59/detection
+
+appsgeyser.com
+
+# Reference: https://www.virustotal.com/gui/domain/mobileslocator.info/relations
+
+mobileslocator.info
+
+# Reference: https://twitter.com/malwrhunterteam/status/1280939994622955520
+# Reference: https://twitter.com/midnight_comms/status/1280942919390769152
+# Reference: https://twitter.com/midnight_comms/status/1280943751985352705
+# Reference: https://twitter.com/malwrhunterteam/status/1281587594825019395
+
+andmon.ru
+anmon.ru
+amon.su
+android-monitor.ru
+android-monitor1.ru
+android-police.ru
+droimon20.ru
+monitor-android.ru
+
+# Reference: https://www.virustotal.com/gui/domain/co1linesu.ru/relations
+
+co1linesu.ru
+
+# Reference: https://twitter.com/malwrhunterteam/status/1285976285777473537
+# Reference: https://www.virustotal.com/gui/file/d1be492e47d62d6254871179c1d93752dbbcdc7b95470ace2870876068d9ea0e/detection
+
+spy-datacenter.com
+
+# Reference: https://twitter.com/malwrhunterteam/status/1294266667078430722
+
+mintrack.vip
+
+# Reference: https://twitter.com/malwrhunterteam/status/1287795588659060742
+
+neatspy.vip
+
+# Reference: https://twitter.com/malwrhunterteam/status/1288876216741756930
+
+trackier.vip
+
+# Reference: https://www.virustotal.com/gui/domain/ad-sdk.com/relations
+
+ad-sdk.com
+
+# Reference: https://www.virustotal.com/gui/file/15605ced1dad556841c2b03dae16485dc6b5458b3483e05377300a1ab242b03e/detection
+
+appsonee.ru
+
+# Reference: https://twitter.com/malwrhunterteam/status/1297075039913889793
+
+p2r.eu
+rofon.pl
+
+# Reference: https://www.virustotal.com/gui/file/79e6f6f4f3b97f63bcafb96ad48b240a347d4686cf26d45769b0ed42c72ba8c8/detection
+
+24la.top
+9iqcc.com
+fgwz.la
+
+# Reference: https://www.virustotal.com/gui/file/10249c439bcc5aa3188740b6ce9340b4b5fd5d9046b330519894ae2b65228c18/detection
+
+downloadandroidappapkmobile.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/140.205.143.143/relations
+
+http://140.205.143.143
+
+# Reference: https://twitter.com/bl4ckh0l3z/status/1301888619423162369
+# Reference: https://twitter.com/bl4ckh0l3z/status/1301889393641259012
+# Reference: https://www.virustotal.com/gui/file/090a9f47705fe00b60a7659ce926462943be2608e616359410fa0a3306646da4/detection
+
+d1wp6m56sqw74a.cloudfront.net
+
+# Reference: https://www.virustotal.com/gui/file/7022a2c3651de24a5462e4f1449e4e1d0f9590bdaf502777d68203235b08885d/detection
+
+fb7961un.bget.ru
+
+# Reference: https://twitter.com/NtSetDefault/status/1273407133476950016
+
+gostat.3g.cn
+goupdate.3g.cn
+
+# Reference: https://twitter.com/malwrhunterteam/status/1305919390110625803
+
+fix5.info

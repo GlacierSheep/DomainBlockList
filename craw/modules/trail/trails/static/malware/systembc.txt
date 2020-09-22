@@ -1,0 +1,19 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.proofpoint.com/us/threat-insight/post/systembc-christmas-july-socks5-malware-and-exploit-kits
+# Reference: https://otx.alienvault.com/pulse/5d4431e60c6bf943f7f039aa
+
+http://146.0.75.34
+amnsns.com
+calacs-laurentides.com
+crypto-crypto.site
+dsntu.top
+elienne.net
+gougounu.site
+mmasl.com
+
+# Reference: https://twitter.com/VK_Intel/status/1176927389328261121
+# Reference: https://www.virustotal.com/gui/file/7976bfcea5c86a0b12266993b17176398d3eabe817f3c44f1a212bca9234698d/detection
+
+fresher.at

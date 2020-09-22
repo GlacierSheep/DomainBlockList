@@ -1,0 +1,97 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/AltShiftPrtScn/status/1154871704625262597
+
+http://107.174.34.203/login/process.php
+
+# Reference: https://twitter.com/AltShiftPrtScn/status/1169180923281256448
+
+http://45.77.74.90
+
+# Reference: https://twitter.com/malwrhunterteam/status/1171741931623395328
+
+109.236.92.162:21
+109.236.92.162:80
+185.254.121.157:21
+185.254.121.157:80
+
+# Reference: https://twitter.com/VK_Intel/status/1171782155581689858
+# Reference: https://www.virustotal.com/gui/ip-address/66.42.76.46/relations
+
+66.42.76.46:21
+66.42.76.46:80
+
+# Reference: https://www.fireeye.com/blog/threat-research/2020/03/the-cycle-of-adversary-pursuit.html
+# Reference: https://otx.alienvault.com/pulse/5e8369d35fd7d069d77f06ea
+
+http://104.156.245.0
+http://104.156.255.79
+http://149.28.50.31
+http://45.32.161.213
+http://45.63.8.219
+aaatus.com
+avrenew.com
+besttus.com
+bigtus.com
+brainschampions.com
+checkwinupdate.com
+ciscocheckapi.com
+cleardefencewin.com
+cmdupdatewin.com
+comssite.com
+conhostservice.com
+cylenceprotect.com
+defenswin.com
+easytus.com
+findtus.com
+firsttus.com
+freeallsafe.com
+freeoldsafe.com
+greattus.com
+havesetup.net
+iexploreservice.com
+jomamba.best
+livecheckpointsrs.com
+livetus.com
+lsassupdate.com
+lsasswininfo.com
+microsoftupdateswin.com
+myservicebooster.com
+myservicebooster.net
+myserviceconnect.net
+myserviceupdater.com
+myyserviceupdater.com
+renovatesystem.com
+service-updater.com
+servicesbooster.com
+servicesbooster.org
+servicesecurity.org
+serviceshelpers.com
+serviceupdates.net
+serviceuphelper.com
+sophosdefence.com
+target-support.online
+taskshedulewin.com
+thedemocraticpost.com
+timesshifts.com
+topsecurityservice.net
+topservicehelper.com
+topservicesbooster.com
+topservicesecurity.com
+topservicesecurity.net
+topservicesecurity.org
+topservicesupdate.com
+topservicesupdates.com
+topserviceupdater.com
+update-wind.com
+updatemanagir.us
+updatewinlsass.com
+updatewinsoftr.com
+web-analysis.live
+windefenceinfo.com
+windefens.com
+winsysteminfo.com
+winsystemupdate.com
+worldtus.com
+yoursuperservice.com

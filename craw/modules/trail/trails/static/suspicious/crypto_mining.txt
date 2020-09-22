@@ -1,0 +1,408 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://hackforums.net/printthread.php?tid=5655422
+
+minergate.com
+miningpoolhub.com
+minexmr.com
+pool.minexmr.com
+moneropool.com
+crypto-pool.fr
+dwarfpool.com
+xmrpool.eu
+prohash.net
+nanopool.org
+ethereumpool.co
+suprnova.cc
+siamining.com
+
+# Reference: https://www.multipool.us/
+
+multipool.us
+
+# Reference: https://mining-help.ru/
+
+mining-help.ru
+
+# Reference: https://xmrminer.cc/
+
+xmrminer.cc
+
+# Reference: https://www.monero.how/tutorial-how-to-mine-monero
+
+supportxmr.com
+monero.hashvault.pro
+monerohash.com
+monero.crypto-pool.fr
+xmrpool.net
+poolmining.org
+pool.xmr.pt
+xmr.prohash.net
+xmr.poolto.be
+
+# Reference: http://www.gandalph3000.com/
+
+gandalph3000.com
+
+# Reference: https://pangolinminer.com/
+
+pangolinminer.com
+
+# Reference: https://hellominer.com/
+
+hellominer.com
+
+# Reference: https://github.com/keraf/NoCoin/blob/master/src/blacklist.txt
+
+# coinhive.com
+# coin-hive.com
+# jsecoin.com
+# reasedoper.pw
+# mataharirama.xyz
+# listat.biz
+# lmodr.biz
+# minecrunch.co
+# minemytraffic.com
+# crypto-loot.com
+
+# Reference: https://www.virustotal.com/#/file/179c5390ba2023402283104fd85d6394033976bc2f21e45d32e7557cafaa7d41/detection
+
+sparechange.io
+
+# Reference: https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html
+
+8282.space
+3389.space
+
+# Reference: https://github.com/xmrig/xmrig/blob/master/src/net/strategies/DonateStrategy.cpp
+
+fee.xmrig.com
+
+# Reference: https://www.securityhome.eu/malware/malware.php?mal_id=7994909645aa0b75fc035d0.43847858
+
+donate.xmrig.com
+
+# Reference: https://isc.sans.edu/forums/diary/What+is+going+on+with+port+3333/23215
+
+mine.moneropool.com
+pool.cortins.tk
+pool.supportxmr.com
+xmr.crypto-pool.fr
+xmrpool.eu
+
+# Reference: https://unit42.paloaltonetworks.com/mac-malware-steals-cryptocurrency-exchanges-cookies/
+
+koto-pool.work
+
+# Reference: https://www.anomali.com/blog/rocke-evolves-its-arsenal-with-a-new-malware-family-written-in-golang
+
+134.209.104.20:51640
+minerxmr.ru
+
+# Reference: https://twitter.com/bad_packets/status/1100625553822867456
+
+119.23.222.239:26590
+
+# Reference: https://twitter.com/James_inthe_box/status/1115591879586795521
+
+47.97.119.5:19988
+
+# Reference: https://twitter.com/infosec_dude/status/1117450131417313280
+# Reference: https://www.virustotal.com/gui/ip-address/45.43.27.214/relations
+# Reference: https://twitter.com/James_inthe_box/status/1117881448151666688
+
+45.43.27.214:17555
+r.twotouchauthentication.online
+
+# Reference: https://twitter.com/luc4m/status/1123126706943008768
+
+139.224.15.175:26591
+
+# Reference: https://www.gdatasoftware.com/blog/2019/05/31695-strange-bits-smuggling-malware-github
+
+zarabotaibitok.ru
+61.128.111.164:3335
+
+# Reference: https://twitter.com/raby_mr/status/1133347073154097153
+# Reference: https://app.any.run/tasks/7e23f973-5f69-4ef0-af26-427e975e308d/
+# Reference: https://www.virustotal.com/gui/file/272e25e3aa9d792281a282c2f6cd40d59c5b8fe432ae93bb5015899ceb173dd1/behavior/Dr.Web%20vxCube
+# Reference: https://www.virustotal.com/gui/ip-address/94.130.64.225/relations
+# Reference: https://www.virustotal.com/gui/ip-address/46.4.119.208/relations
+
+46.4.119.208:45700
+94.130.64.225:45700
+
+# Reference: https://github.com/guardicore/labs_campaigns/blob/master/Nansh0u/mining_pools_domains.md
+
+lokiturtle.herominers.com
+trtl.cnpool.cc
+turtle.miner.rocks
+trtl.pool.mine2gether.com
+
+# Reference: https://twitter.com/liuya0904/status/1135901420958281729
+
+noobxmr.com
+minexmr.cn
+moriaxmr.com
+viaxmr.com
+xmr-us.suprnova.cc
+xmr.bohemianpool.com
+xmr-usa.dwarfpool.com
+miners.pro
+thyrsi.com
+zer0day.ru
+
+# Reference: https://twitter.com/malware_traffic/status/1138999824613687298
+# Reference: https://twitter.com/VK_Intel/status/1139926661162512384
+# Reference: https://github.com/k-vitali/Malware-Misc-RE/blob/master/2019-06-14-tofsee-spambot-modules.notes.vk.txt
+
+185.181.165.20:8087
+
+# Reference: https://twitter.com/Artilllerie/status/1115258738368294913
+
+185.212.129.80:8087
+
+# Reference: https://otx.alienvault.com/pulse/5d0773672ba7e7853c4ad5cf
+
+185.161.70.34:3333
+202.144.193.184:3333
+205.185.122.99:3333
+
+# Reference: https://www.welivesecurity.com/2019/06/20/loudminer-mining-cracked-vst-software/ (# Mining hosts)
+
+system-update.info
+system-check.services
+185.193.126.114:443
+185.193.126.114:8080
+82.221.139.161:8080
+
+# Reference: https://twitter.com/28bit/status/1159906315642253312
+
+121.42.151.137:28850
+
+# Reference: https://twitter.com/James_inthe_box/status/1165005466419658753
+
+3.120.209.58:8080
+
+# Reference: https://habr.com/ru/company/pt/blog/466877/ (Russian)
+
+154.16.67.133:80
+
+# Reference: https://twitter.com/Paladin3161/status/1171766464560238593
+# Reference: https://pastebin.com/YWXQFF3Q
+
+http://185.141.25.35
+solarray.club
+
+# Reference: https://twitter.com/pancak3lullz/status/1174012227130679297
+
+65.154.226.109:14100
+70.42.131.189:14100
+
+# Reference: https://blog.trendmicro.com/trendlabs-security-intelligence/fileless-cryptocurrency-miner-ghostminer-weaponizes-wmi-objects-kills-other-cryptocurrency-mining-payloads/
+
+pool.usa-138.com
+xmr.usa-138.com
+
+# Reference: https://twitter.com/MalwareTechBlog/status/1190730471321112577
+# Reference: https://otx.alienvault.com/pulse/5dbdf437299aea7cd396cd26
+# Reference: https://www.virustotal.com/gui/file/8a87a1261603af4d976faa57e49ebdd8fd8317e9dd13bd36ff2599d1031f53ce/detection
+# Reference: https://www.virustotal.com/gui/file/037dbddeda76d7a1be68a2b3098feabfbf5400a53e2606f5a0e445deb2e42959/detection
+
+5.100.251.106:52057
+
+# Reference: https://blog.netlab.360.com/mykings-the-botnet-behind-multiple-active-spreading-botnets/
+
+myxmr.pw
+xmr.5b6b7b.ru
+
+# Reference: https://www.virustotal.com/gui/file/f99833ef4d4bcb6cf9abcaee6edd3d1ba5b5825af4fd3f609654d343b137a8af/detection
+
+91.121.140.167:3333
+
+# Reference: https://www.accenture.com/_acnmedia/pdf-46/accenture-threat-analysis-monero-wannamine.pdf
+
+pool.supportxmr.com
+pool.minexmr.com
+pool.support
+pool.monero.hashvault.pro
+xmrpool.eu
+cryptonight-hub.miningpoolhub.com
+xmrpool.net
+xmr.nanopool.org
+mixpools.org
+minergate.com
+viaxmr.com
+moriaxmr.com
+xmr.suprnova.cc
+moneroocean.stream
+xmrpool.eu
+xmrpool.de
+poolto.be
+mineXMR.com
+xmr.prohash.net
+sheepman.mine.bz
+xmr.mypool.online
+bohemianpool.com
+moneropool.com
+moneropool.nl
+iwanttoearn.money
+pool.xmr.pt
+monero.crypto-pool.fr
+monero.miners.pro
+minercircle.com
+monero.lindon-pool.win
+cryptmonero.com
+teracycle.net
+ratchetmining.com
+dwarfpool.com
+monerohash.com
+monero.us.to
+usxmrpool.com
+xmrpool.xyz
+minemonero.gq
+alimabi.cn
+pooldd.com
+monero.riefly.id
+
+# Reference: https://blog.talosintelligence.com/2020/01/vivin-cryptomining-campaigns.html
+# Reference: https://otx.alienvault.com/pulse/5e29b7189d749995b2d4ea71
+# Reference: https://www.virustotal.com/gui/file/6bc118693d6e69081e5f39fdab20a613d7536d3199c029562c192c5dbc9d1d1c/detection
+
+37.59.43.136:4444
+37.59.54.205:4444
+
+# Reference: https://app.any.run/tasks/d6c87295-24a2-48eb-aef0-d3d5ac4ad2ae/
+# Reference: https://mining.bittube.app/
+
+mining.bittubeapp.com
+
+# Reference: https://www.virustotal.com/gui/file/5eda21ea41febbdc5b69840894cb37cba8206f2865dc07e2cb85c29db5240d04/detection
+# Reference: https://www.virustotal.com/gui/ip-address/163.172.204.213/relations
+# Reference: https://www.virustotal.com/gui/ip-address/163.172.204.219/relations
+
+163.172.204.213:3333
+163.172.204.219:3333
+163.172.207.198:3333
+163.172.207.71:3333
+crypto-pool.info
+monero-master.crypto-pool.fr
+pool.4i7i.com
+xmr.ip28.net
+xmr.simka.pw
+xmrpool.me
+xmr.crypto-pool.info
+xmrf.520fjh.org
+xmrf.fjhan.club
+xmr.somec.cc
+pool.somec.cc
+
+# Reference: https://www.first.org/resources/papers/amsterdam2019/FIRST-TC-pres-v1.1.pdf    # Note: page 31
+# Reference: https://www.virustotal.com/gui/ip-address/163.172.226.194/relations
+# Reference: https://www.virustotal.com/gui/domain/xmr.crypto-pool.fr/relations
+# Reference: https://www.virustotal.com/gui/file/87f9a5a38c1dce92317c50fe66f2fdc0fcfac19f0ea58951b9a3e747915c1827/behavior/Rising%20MOVES  # Note: different ports used
+
+163.172.114.218
+163.172.203.178
+163.172.204.213
+163.172.204.219
+163.172.205.136
+163.172.206.67
+163.172.207.166
+163.172.207.198
+163.172.207.69
+163.172.207.71
+163.172.207.88
+163.172.224.101
+163.172.226.114
+163.172.226.120
+163.172.226.128
+163.172.226.137
+163.172.226.194
+163.172.226.218
+
+# Reference: https://www.virustotal.com/gui/file/fbcdd5c542bb5c66303e621829f0cd654be0bfb38ed0c50a335ef3c9dae0201f/detection
+
+138.201.20.89:45700
+138.201.27.243:45700
+78.46.87.181:45700
+88.99.142.163:45700
+
+# Reference: https://www.virustotal.com/gui/file/c3affb76ff0fad78d77b0153b5c2a99d5bbd8d829ef13661c0af58d2988db344/detection
+
+149.210.234.234:3333
+litecoinpool.org
+
+# Reference: https://twitter.com/c3rb3ru5d3d53c/status/1240732487195688962
+
+covid19crypto.com
+
+# Reference: https://blog.360totalsecurity.com/en/crazycoin-the-master-of-double-mining-double-white-utilization-and-resource-utilization/
+
+47.101.30.124:13531
+47.108.119.77:6000
+f2pool.com
+hns.f2pool.com
+xmr.f2pool.com
+
+# Reference: https://github.com/Monero-Monitor/monero-monitor/blob/master/data/html/options.html
+
+monero.crypto-pool.fr
+monerohash.com
+moneropool.com
+drill.moneroworld.com
+cryptmonero.com
+xmr.prohash.net
+xmr.alimabi.cn
+xmrpool.eu
+supportxmr.com
+minexmr.com
+
+# Reference: https://www.virustotal.com/gui/file/eaef82223eeb8cf404a1d46613d36b9e582304b215201b5e557db578dd73e04e/behavior/Dr.Web%20vxCube
+
+37.59.43.131:5555
+37.59.43.136:5555
+91.121.2.76:5555
+37.59.45.174:5555
+176.9.2.144:5555
+78.46.91.134:5555
+78.46.89.102:5555
+37.187.154.79:5555
+37.59.54.205:5555
+37.59.55.60:5555
+
+# Reference: https://s.tencent.com/research/report/948.html (Paragraph 6)
+# Reference: https://otx.alienvault.com/pulse/5e863edb03f9ddbc8bc15b60
+
+103.195.4.139:443
+178.128.108.158:443
+68.183.182.120:443
+
+# Reference: https://www.virustotal.com/gui/file/455224893e266c7f5781bdc2e0c1cbb1a4f3c71c8a63ba7c690cd3067949ed5c/detection
+
+178.63.48.196:5555
+
+# Reference: https://blacklist.cyberthreatcoalition.org/vetted/url.txt
+
+minerpool.pw
+/xmrig/
+
+# Reference: https://www.virustotal.com/gui/file/a38216166e363d752f37bdf0419d2e2694279beab8df66d40f56c679563e7a4f/detection
+
+pool.hashvault.pro
+
+# Reference: https://www.virustotal.com/gui/file/f47aa2f661eec457e659d0c0867902e4ed851993f8b884e03c22e27403f4876c/detection
+# Reference: https://www.virustotal.com/gui/file/6eb73cfa98e35282a6f9a6d028f3f5ad84cf29ed4deb33b262d682c8bd246466/detection
+# Reference: https://www.virustotal.com/gui/file/44cd3c7c0acb590fd5f1d5175171accedc602c702139ea47017dea782b859a8b/detection
+# Reference: https://www.virustotal.com/gui/domain/hex7e4.ru/relations
+
+134.122.57.234:3333
+185.212.128.180:8080
+45.61.136.51:3333
+45.61.136.51:8080
+97.68.239.202:3333
+d1pool.ddns.net
+d5pool.us
+xmr.hex7e4.ru
+xxx.hex7e4.ru

@@ -1,0 +1,36 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Troj~Autoit-BXA/detailed-analysis.aspx
+
+latestapps.wen.ru
+www.guoqeeoqgb.wen.ru
+
+# Reference: https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Troj~AutoIt-BUH/detailed-analysis.aspx
+
+apollo39.duia.ro
+spectranet47.duia.eu
+
+# Reference: https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Troj~Autoit-BXC/detailed-analysis.aspx
+
+fifexont.com
+mumeraxo.com
+mutinenag.com
+tonekrant.com
+
+# Reference: https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Troj~Autoit-BNH/detailed-analysis.aspx
+
+dw.downloadtesting.com
+
+# Reference: https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Troj~Autoit-BVB/detailed-analysis.aspx
+
+s3.dedicatedpanel.net
+
+# Reference: https://www.threatcrowd.org/domain.php?domain=maniac.http80.info
+
+maniac.http80.info
+
+# Reference: https://www.virustotal.com/gui/file/01025f6c7ce7fd17c1571bd6610c497ce877e2b57b026cd6a98381736d619f28/detection
+
+ricch-hood.servepics.com
+103.199.18.145:30578

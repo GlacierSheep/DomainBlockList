@@ -1,0 +1,26 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-matrix-report.pdf
+# Reference: https://github.com/sophoslabs/IoCs/blob/master/Ransomware-Matrix
+
+blushing-gasket.000webhostapp.com
+che.mygoodsday.org
+eman.mygoodsday.org
+fb.mygoodsday.org
+fredstat.000webhostapp.com
+jnss.mygoodsday.org
+jostat.000webhostapp.com
+jostat.mygoodsday.org
+mai-hoand.000webhostapp.com
+murik.xyz
+murikos.in
+no7654324wesdfghgfds.000webhostapp.com
+nobad.mygoodsday.org
+prcp.mygoodsday.org
+pre.mygoodsday.org
+testercmd.in
+third.mygoodsday.org
+tru.mygoodsday.org
+tstat.mygoodsday.org
+updateplayernow.win

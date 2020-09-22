@@ -1,0 +1,277 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.proofpoint.com/us/threat-insight/post/gootkit-banking-trojan-jumps-channel
+
+swysocki77.com
+gorski83.com
+ostrowski87.com
+jasinski2015.com
+olszewski78.com
+pozheeshebudem.com
+freforevermailtes.com
+nidermidertom.com
+ecuremailbestfree.com
+securewebgooglesite.com
+robertpouslen12494.pw
+robertpouslen1234524.com
+update-service7825t28.com
+domolor.com
+babosikimne.com
+babosikidai.com
+vaillantsawer.com
+proballansmen.com
+reputamadrell.com
+lastrizariano.com
+rokobarokkino.com
+artipreambulo.com
+trequablaster.com
+pretriquestro.com
+rebellintosto.com
+mellicianactr.com
+abc.doitgraphic.org
+updatebase.bid
+shop.lifexcellence.org
+
+# Reference: http://www.broadanalysis.com/2017/03/13/rig-exploit-kit-via-eitest-delivers-gootkit-banking-malware-2/
+
+duplanty.top
+
+# Reference: https://www.cert-pa.it/news?id=10536
+
+sph.expoartshop.com
+
+# Reference: https://twitter.com/James_inthe_box/status/1102904911212101634
+
+/rbody320
+
+# Reference: https://twitter.com/James_inthe_box/status/914111090425917440
+# Reference: https://pastebin.com/T2ryBWdZ
+
+/rpersist4/
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1113395985043079169
+# Reference: https://sugitamuchi.hatenablog.com/entry/2019/04/13/224350 (JP-lang)
+
+/loadercrypt_823EF8A810513A4071485C36DDAD4CC3.php
+
+# Reference: https://www.joesandbox.com/analysis/117861/0/pdf
+
+/crypt0DD1D2637FDB71097213D70B94E86930.php
+
+# Reference: https://twitter.com/VK_Intel/status/1006545151823613952
+
+ftps.layermag.com
+lab.aplusstatus.com
+0.turkcedusunturkcekonus.com
+
+# Reference: https://twitter.com/malware_traffic/status/767852827200761856
+
+apsoo3k2i.ahgsuy3829.top
+
+# Reference: https://twitter.com/Racco42/status/1063412662623760385
+
+/tes2t
+
+# Reference: https://twitter.com/BroadAnalysis/status/815211105664565248
+
+cedar.igrooveweb.com
+salsx.sedtinterrighthe.top
+
+# Reference: https://twitter.com/BroadAnalysis/status/788400179091214336
+
+acc.arabicdessert.co
+kd67.prmhohzsl.top
+
+# Reference: https://twitter.com/BroadAnalysis/status/782996903025844224
+
+b6l2op.dxzvkr.top
+
+# Reference: https://twitter.com/malware_traffic/status/766412267063607296
+
+dmqxmz.lowashemterle.top
+
+# Reference: https://blog.yoroi.company/warning/campagna-gootkit-verso-pec-italiane/
+
+ami.sigaingegneria.com
+erre.effe-erre.es
+filuetrama.top
+martatov.top
+
+# Reference: https://twitter.com/reecdeep/status/1130497379411595266
+
+fila.heathercrowe.ca
+koohy.top
+
+# Reference: https://app.any.run/tasks/77932db7-ffb1-409a-9b28-9cf6c8e70c1c/
+
+fila.su170.org
+
+# Reference: https://twitter.com/reecdeep/status/1136950470696681473
+
+it.goodvibeskicking.com
+tru.cheersportacademy.com
+
+# Reference: https://twitter.com/reecdeep/status/1139063611681325056
+
+kohe.even-air.com
+ove.resourceny.net
+
+# Reference: https://twitter.com/reecdeep/status/1139436492152102912
+
+box.therusticsandbox.com
+
+# Reference: https://twitter.com/James_inthe_box/status/1141326136212766720
+
+checkcacheonline.com
+
+# Reference: https://twitter.com/abuse_ch/status/1141330445663113218
+
+onlinecachecheck.com
+
+# Reference: https://www.cert-pa.it/notizie/campagna-gootkit-tramite-jasperloader-verso-pubbliche-amministrazioni/
+
+fattura.directionalforcedrive.com
+majorleaguepub.com
+calc.1407cty13pec.com
+koh.191northfront.com
+karysmarie.me
+otnhmtkwnz.top
+
+# Reference: https://twitter.com/reecdeep/status/1153248954911514625
+
+me.karysmarie.me
+
+# Reference: https://twitter.com/reecdeep/status/1156085593148932097
+
+koh.corkysfreshwater.com
+lucky.bayonetbreakers.com
+
+# Reference: https://twitter.com/reecdeep/status/1156866545651474432
+
+drive.deescreationstore.com
+kope.deessolutionsdemo.com
+
+# Reference: https://twitter.com/reecdeep/status/1159353959271845888
+
+me.woodlandsareareview.com
+
+# Reference: https://twitter.com/reecdeep/status/1159349342144253954
+
+drive.gstroop4822.org
+free.deescreationstore.com
+
+# Reference: https://twitter.com/reecdeep/status/1158754365559193602
+
+me.kaleighrose.me
+otnhmdmwnz.top
+
+# Reference: https://twitter.com/reecdeep/status/1158751070425763840
+
+soft.photosbydee.com
+
+# Reference: https://twitter.com/peterkruse/status/1158761928736628736
+
+bill.newsrental.net
+help.skofirm.org
+zgzimdqwnj.top
+
+# Reference: https://twitter.com/reecdeep/status/1156866545651474432
+
+drive.deescreationstore.com
+kope.deessolutionsdemo.com
+
+# Reference: https://twitter.com/reecdeep/status/1164503528271990784
+
+hop.hopedaleweb.com
+web.tilmonday.com
+wws.no-shirt-no-shoes.com
+
+# Reference: https://twitter.com/reecdeep/status/1164508719742423044
+
+hop.hopedaleweb.com
+zgzimdkwod.top
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1164511396849160193
+
+web.cfmontessori.com
+wws.dbimages.com
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1169549992345985025
+
+wow.doorattendants.com
+me.jmitchelldayton.com
+web.speakingofhome.com
+pro.prosperitybookkeeping.net
+
+# Reference: https://twitter.com/reecdeep/status/1171022723587420162
+
+ser.jonnalbandian.com
+wws.christinedavies.biz
+vps.healinglightwithin.com
+it.its1ofakind.net
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1172515470202871808
+
+ser.jonnalbandian.com
+wws.christinedavies.biz
+you.cypressstakeyouth.com
+adp.mjmentertainment.com
+
+# Reference: https://twitter.com/MBThreatIntel/status/1174471949059125248
+
+adp.reevesandcompany.com
+beta.madeintaylors.com
+picturecrafting.site
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1175128962919542785
+
+guipicturecrafting.site
+
+# Reference: https://twitter.com/reecdeep/status/1176407972249001984
+
+wws.breebrasil.com
+wws.guidemyhunt.com
+
+# Reference: https://twitter.com/reecdeep/status/1176414815033679873
+
+web.speakingofhome.com
+pro.prosperitybookkeeping.net
+
+# Reference: https://blog.talosintelligence.com/2019/10/threat-roundup-1011-1018.html (# Win.Malware.Gootkit-7333291-0)
+
+cibariefoodconsulting.com
+hymnsontap.com
+its1ofakind.net
+jmitchelldayton.com
+kaleighrose.me
+karysmarie.me
+kkillihhy.top
+mjmentertainment.com
+otnhmdmwnz.top
+picturecrafting.site
+reevesandcompany.com
+simplebutmatters.com
+thebellamyfamily.me
+ttbuilders.com
+woodlandsareareview.com
+
+# Reference: https://twitter.com/deepspacesc/status/1133755269836693506
+
+capfaregreem.eu
+
+# Reference: https://any.run/malware-trends/goodkit (Note: as seen on 2019-12-04)
+
+web.speakingofhome.com
+home.ktxhome.com
+home.hopedaybook.com
+beta.madeintaylors.com
+
+# Reference: https://app.any.run/tasks/18e0b136-bfa9-4837-8ea7-5ee4a6a732e9/
+
+kasdima.top
+
+# Reference: https://twitter.com/0xCARNAGE/status/1246485252903702528
+# Reference: https://app.any.run/tasks/137d26a0-a94a-414b-a953-711647b4093b/
+
+medicinecomplete.com

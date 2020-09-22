@@ -1,0 +1,16 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.virustotal.com/gui/file/5ab230b0215040cc3020a8bfce9f6fbdf2db7e8730fa255f506dd41f1a813793/detection
+
+king6006.no-ip.biz
+
+# Reference: https://www.virustotal.com/gui/file/3c849106e6479faeca11185ec17a62ab06c39a50a22d697e98ea5bef0f027d85/detection
+
+94.73.32.235:15963
+zzzz11.zapto.org
+
+# Reference: https://www.virustotal.com/gui/file/05e4951f1c13d5b3904b9d1d6ea940b5a68226e6fe104e1c24875f6b7f4084b6/detection
+
+78.159.131.80:27015
+sincancs.zapto.org

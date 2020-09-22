@@ -1,0 +1,36 @@
+# Copyright (c) 2014-2020 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://twitter.com/nullcookies/status/1038170765093466112
+
+softnew.website
+
+# Reference: https://its-ownz.blogspot.com/2015/02/blue-botnet-http-botnet.html
+
+burimche.net
+
+# Reference: https://twitter.com/MalWebHunter/status/948672815263203333
+
+dattieclavong.com
+
+# Reference: https://twitter.com/nullcookies/status/1141140952779825152
+
+giangholuankiem.com
+volamthailan.com
+
+# Reference: https://twitter.com/stvemillertime/status/1155896477195091971
+
+attack.s2lol.com
+
+# Reference: http://tracker.viriback.com/dump.php (# 2019-11-04, BlueBot)
+
+volamtayson.top
+
+# Reference: http://tracker.viriback.com/dump.php (# 2020-02-23, BlueBotNet)
+
+anonprixorbooter.byethost11.com
+jxshxt.com
+
+# Reference: https://twitter.com/benkow_/status/1243223303596187653
+
+talismans.xyz
