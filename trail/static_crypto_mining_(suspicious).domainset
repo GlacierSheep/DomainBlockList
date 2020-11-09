@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Nov  9 08:59:38 2020
+# Source File Date: Mon Nov  9 15:09:31 2020
 # Category: crypto mining (suspicious)
 # 
 mining-help.ru
@@ -120,3 +120,6 @@ seed.emercoin.net
 seed.emergate.net
 13.77.155.141:5000
 xmr.bepooh.com
+51.81.245.40:5555
+us-west.minexmr.com
+webservicepag.webhop.net
