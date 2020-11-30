@@ -2048,9 +2048,11 @@ bpeouxcwqhenm.lasersteam178.ru
 
 # Reference: https://app.any.run/tasks/8f28abcc-cbaf-4f47-bbfa-b00f515a1a4f/ (# ICELoader)
 # Reference: https://any.run/report/ee5f807ada03b89e19c2e222d260c613f7961cc8ccf879638f1dc1ad44d10968/8b24b983-95cd-46aa-8629-7c94d5012cb2
+# Reference: https://www.virustotal.com/gui/file/8cad0b2ebf1e7cb466414a1110a01cb41292dbbe51cd9eeac8a54934bafef850/detection
 
 lulusoft.com
 webcompanion.com
+/nano_download.php?partner=
 /request/autok?user=
 /request/conditions?user=
 /request/offers?user=
@@ -2562,3 +2564,7 @@ cooctdlfast.com
 # Reference: https://www.virustotal.com/gui/file/13c3bb8e213e007e97fb1fb062d038d36033e2a621403a72333c34001a9abe18/detection
 
 themarketingadscenter.com
+
+# Reference: https://www.virustotal.com/gui/file/d7708009dab68d023994b50e5ac57008ca0ad92f1cc77740a3355b2e290db364/detection
+
+bestxserver.com
