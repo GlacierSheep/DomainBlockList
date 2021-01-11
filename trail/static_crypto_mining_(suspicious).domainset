@@ -3,9 +3,24 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Jan 11 18:13:06 2021
+# Source File Date: Tue Jan 12 00:21:18 2021
 # Category: crypto mining (suspicious)
 # 
+107.191.47.239:3333
+176.31.105.53:3333
+45.32.233.191:3333
+51.144.104.161:3333
+51.144.119.120:3333
+54.37.7.208:3333
+94.23.251.22:3333
+107.191.47.239:7777
+176.31.105.53:7777
+45.32.233.191:7777
+51.144.104.161:7777
+51.144.119.120:7777
+54.37.7.208:7777
+94.23.251.22:7777
+94.130.143.162:45700
 mining-help.ru
 xmrminer.cc
 gandalph3000.com
@@ -227,3 +242,6 @@ xmrigcc.graef.in
 52.195.14.54:15555
 54.180.146.246:15555
 mine.c3pool.com
+winxmr.club
+monerogb.com
+monerorx.com
