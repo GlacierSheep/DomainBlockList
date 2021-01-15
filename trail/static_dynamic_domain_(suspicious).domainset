@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Fri Jan 15 01:59:39 2021
+# Source File Date: Fri Jan 15 08:09:11 2021
 # Category: dynamic domain (suspicious)
 # 
 dns-report.com
@@ -1436,6 +1436,11 @@ urown.cloud
 nerdpol.ovh
 meibu.net
 dynv6.net
+dns.army
+dns.navy
+v6.army
+v6.navy
+v6.rocks
 mein-vigor.de
 my-vigor.de
 dd-dns.de
@@ -1769,4 +1774,3 @@ ydns.eu
 kvrddns.com
 provision-isr-dns.com
 freedns.io
-dns.navy
