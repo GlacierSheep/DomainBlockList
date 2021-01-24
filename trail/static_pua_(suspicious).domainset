@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Jan 25 01:21:14 2021
+# Source File Date: Mon Jan 25 07:29:31 2021
 # Category: pua (suspicious)
 # 
 irc-files.org
@@ -1556,3 +1556,6 @@ tw004plz.myidcddns.com
 45.114.8.167:53
 92.246.76.123:53
 lucid.pw
+destorage.info
+/installmate/php/get_cfg.php
+/installmate/php/track_installer_products.php
