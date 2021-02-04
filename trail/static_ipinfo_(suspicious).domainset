@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Thu Feb  4 19:26:08 2021
+# Source File Date: Fri Feb  5 01:38:32 2021
 # Category: ipinfo (suspicious)
 # 
 2ip.me
@@ -270,3 +270,4 @@ api.rest7.com/v1/my_ip.php
 v4.ipv6-test.com/api/myip.php
 myip.ipip.net
 eth0.me
+ip.urls.is
