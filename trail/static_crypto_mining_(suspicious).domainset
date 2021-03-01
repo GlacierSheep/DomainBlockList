@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Mar  1 03:26:57 2021
+# Source File Date: Mon Mar  1 09:34:09 2021
 # Category: crypto mining (suspicious)
 # 
 107.191.47.239:3333
@@ -245,3 +245,5 @@ monerorx.com
 139.99.120.50:7777
 49.12.80.38:45560
 49.12.80.40:45560
+51.254.84.37:4444
+49.12.80.40:45700
