@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Mar 15 20:49:07 2021
+# Source File Date: Tue Mar 16 02:57:30 2021
 # Category: ipinfo (suspicious)
 # 
 2ip.me
@@ -271,3 +271,4 @@ v4.ipv6-test.com/api/myip.php
 myip.ipip.net
 eth0.me
 ip.urls.is
+7fw.de/ipraw.php

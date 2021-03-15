@@ -3,7 +3,7 @@
 # Maintainer URL: (static)
 # Maintainer: xlh
 # List source URL: (static)
-# Source File Date: Mon Mar 15 20:49:07 2021
+# Source File Date: Tue Mar 16 02:57:30 2021
 # Category: android pua (suspicious)
 # 
 35.198.197.119:8080
@@ -143,3 +143,8 @@ blackplay.ddns.net
 blackplay.space
 leadboltapps.net
 leadboltmobile.net
+103.219.29.34:8081
+223.202.132.66:1883
+23.234.27.209:8181
+23.234.27.218:8081
+23.234.27.218:8181
